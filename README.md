@@ -2,7 +2,7 @@
 
 Implemented Light/Dark toggle using CSS and Javascript. 
 
-Calling a function to set LightMode or DarkMode based on condition.
+### Calling a function to set LightMode or DarkMode based on condition.
 ```
 function enableDarkMode() {
   document.body.classList.remove("light-theme")
